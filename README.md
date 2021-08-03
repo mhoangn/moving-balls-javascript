@@ -4,7 +4,7 @@ Create three balls in the HTML and make them moving around, move from left to ri
 ## Installation: 
 No istallation is required.
 ## Usage:
- All you need to do is download the files and draf the movingballs.html to the browser and watch how the balls move.
+ All you need to do is download the files and drag the movingballs.html to the browser and watch how the balls move.
 ## Support: 
 If you need help or have any question about the code, feel free to reach me via my email or twitter.
 ## Roadmap: 
